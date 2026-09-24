@@ -1,8 +1,8 @@
 # Modul [01] - [Nama Topik Modul]
 
-**Nama:** [Nama Mahasiswa]  
-**NIM:** [NIM Mahasiswa]  
-**Kelas:** [Kelas/Kelompok]  
+**Nama:** [Muhammad Pradipta Arya Mujahid]  
+**NIM:** [1306625046]  
+**Kelas:** [Fisika C]  
 
 ---
 
