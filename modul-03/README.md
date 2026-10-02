@@ -1,13 +1,13 @@
-# Modul [03] - [Nama Topik Modul]
+# Modul [03] - Trigonometri
 
-**Nama:** [Nama Mahasiswa]  
-**NIM:** [NIM Mahasiswa]  
-**Kelas:** [Kelas/Kelompok]  
+**Nama:** Muhammad Pradipta Arya Mujahid
+**NIM:** 1306625046
+**Kelas:** Fisika C  
 
 ---
 
 ## 1. Problem Statement
-> Jelaskan latar belakang masalah, parameter yang diketahui, serta tujuan dari praktikum atau pemodelan pada modul ini.
+> Membuat Program untuk menghitung nilai sin dan cos dengan pendekatan deret Mc Laurin.
 
 ## 2. Mathematical Equation
 > Tuliskan persamaan fisika/matematika, rumus numerik, atau penurunan rumus yang digunakan dalam modul ini menggunakan format LaTeX.
